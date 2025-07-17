@@ -27,7 +27,7 @@ A simple project for ESP8266 that allows you to control a 16x2 I2C LCD display o
 ## Getting Started
 
 1. Clone this repository.
-2. Open `sketch_slovanaekran.ino` in Arduino IDE.
+2. Open `lcd_live_control_esp8266.ino` in Arduino IDE.
 3. Install the required libraries:
     - LiquidCrystal_I2C
     - Wire
